@@ -1,0 +1,1 @@
+PSG_info_bot : This is an AI chatbot RAG application which gives us the information about the College events , news and college navigation details.
